@@ -16,6 +16,8 @@ This repository contains the project files for the **Smart Bed Approach for Pers
   - Integration with **MATLAB** for signal processing and real-time data visualization.
   - A user-friendly interface provides graphical representations of health parameters such as heart rate, body temperature, and blood pressure.
 
+  ![Noisy Heart Beat Signal](NoisySignal.png)
+
   ![Heart Beat Signal](Signal.png)
 
 - **Noise Filtering**:
