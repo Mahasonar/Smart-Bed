@@ -39,3 +39,9 @@ This repository contains the project files for the **Smart Bed Approach for Pers
 - **Microcontrollers**: Arduino Mega and Uno.
 - **Software**: MATLAB, Simulink.
 - **Signal Processing**: Butterworth filter for ECG noise reduction, MATLAB-based plotting of real-time data.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+         https://github.com/Mahasonar/Smart-Bed.git
