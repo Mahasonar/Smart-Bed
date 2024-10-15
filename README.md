@@ -1,4 +1,4 @@
-# Smart Bed 
+# Smart Bed Approach For Personalized Health Management
 
 This repository contains the project files for the **Smart Bed Approach for Personalized Health Management**, developed by Kaushalya K.T.S., Kapiladewa M.N.G., and Kahandawa Arachchi K.A.M.N. at the University of Moratuwa, Sri Lanka. This system integrates advanced sensors, data analytics, and machine learning algorithms to monitor and optimize sleep conditions and health.
 
